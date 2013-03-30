@@ -35,6 +35,7 @@ group :development do
   gem 'awesome_print'
   gem 'annotate', '>=2.5.0'
   #gem 'hirb'
+  gem 'meta_request'
 end
 
 group :production do
